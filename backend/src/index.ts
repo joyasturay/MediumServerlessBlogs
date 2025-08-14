@@ -24,7 +24,7 @@ app.use('/api/v1/blog/*', async (c, next) => {
     message:"incorrect token"
   })
  }
-});
+})
 
 
 app.get('/', (c) => {
