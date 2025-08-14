@@ -20,9 +20,7 @@ app.use('/api/v1/blog/*', async (c, next) => {
  }
  else{
   c.status(403);
-  return c.json({
-    message:"incorrect token"
-  })
+ 
  }
 });
 
