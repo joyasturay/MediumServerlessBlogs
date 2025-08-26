@@ -28,4 +28,4 @@ This project is a backend for a Medium-like blogging platform, built using Hono,
   - `src/routes/`: (Planned) Directory for organizing API routes.
   - `prisma/`: Contains Prisma schema and migrations.
   - `wrangler.jsonc`: Cloudflare Wrangler configuration for deploying the Worker.
-- `Common/`: A shared module, likely for common types or utilities.
+- `Common/`: A shared module, for common types or utilities(zod validations).
