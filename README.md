@@ -52,7 +52,7 @@ This project is a backend for a Medium-like blogging platform, built using Hono,
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/joyasturay/MediumServerlessBlogs.git
     cd medium
     ```
 
