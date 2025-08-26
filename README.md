@@ -52,8 +52,8 @@ This project is a backend for a Medium-like blogging platform, built using Hono,
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd medium2
+    git clone 
+    cd medium
     ```
 
 2.  **Install dependencies:**
